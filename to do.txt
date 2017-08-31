@@ -2,3 +2,5 @@ sql dataquest
 madan dl
 wikipedia ts model
 av audio quality
+dataworld data quest
+analytics data pipeline dataquest
